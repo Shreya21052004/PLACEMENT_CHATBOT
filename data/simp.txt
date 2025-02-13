@@ -1,0 +1,75 @@
+Prerequisites Before Starting DSA
+You should have a base knowledge of any one programming language (CPP, JAVA or PYHTON).
+
+Don’t go too deep into the programming language at first, just basic concepts like conditional statements, loops, pattern printing and basic questions (prime, Armstrong, palindrome, etc) are enough.
+
+It will take somewhere between 15–30 days to learn a language.
+
+DSA Topics
+You have to prepare all the DSA topics in order to have complete understanding. Companies can ask from any of the below topics.
+
+At first it may look like the topic is tough but with time you will get the grasp of the topic by solving the problems regularly.
+
+→ Learn “Object Oriented Programming” along with DSA
+→ Math [Factors, Primes (Sieve Of Eratosthenes), Modulo Arithmetic, GCD]
+→ Array
+→ String
+→ Linked List
+→ Greedy Algorithm
+→ Bit Manipulation
+→ Recursion
+→ Backtracking
+→ Sorting Algorithms (Merge, Quick, Heap Sort)
+→ Binary Search
+→ Stack
+→ Queue
+→ Heaps
+→ Binary Tree
+→ Binary Search Tree
+→ Graphs [Most IMP]
+→ Dynamic Programming [Most IMP]
+→ Trie
+
+How To Prepare For Each Topic?
+Start with the implementation of the Data Structure or Algorithm. For eg: Learn how to implement binary tree or binary search at first.
+Then learn about various algorithms which are used in that Data Structure. For eg: Learn how to traverse a tree, DFS, BFS, etc.
+Solve all the common/generic/famous problems. For eg: If you are learning DP, then solve LIS, LCS type of problems.
+Then start solving the problems randomly.
+First choose easy problem. Solve 10–15 easy problems and once you get comfortable with easy problems, then move to medium and then to hard.
+How to Solve a Problem?
+I have created some mental models which will help you to solve a problem.
+
+DON’T FEAR ANY PROBLEM. Every problem which is given to you (by interviewer or some website) can be SOLVED.
+Clear your basics. You cannot solve a Graph problem, if you don’t have any idea about Graphs.
+Understand the problem fully. Don’t half read it, in fact read it twice or thrice.
+MOST IMP: Use Notebook while solving a problem.
+Dry run the test-cases. Just know how the answer to a test-case is forming.
+Try to figure out the topic on that problem. Figure out which Data Structure(s) or Algorithm(s) can be used.
+Break down the problem into smaller sub-problems.
+If the problem is based on observation, then check if you can find some pattern. For eg: check for n = 0,1,2,3, and so on till you find some pattern.
+Always try to use fundamental concepts to solve a problem. Most of the problems are built on top of some fundamental problem(s) only.
+Try to come up with the Brute Force approach and then try to optimize it.
+Note: These are not steps, these are just some tips. But you can consider 1–6 as a step.
+
+Detailed Guide On Problem Solving.
+
+How much time to give to each problem?
+NOTE: If you are a beginner then please don’t follow this timing because you’ll have to give an hour or two even to solve an easy problem. So take your time as a beginner.
+
+These are the timings which I generally follow.
+
+→ Easy Problems: 15 –20 mins
+→ Medium Problems: 30–45 mins
+→ Hard Problems: 1–1.5 hours
+
+And if you still cannot figure out the solution after that, then it is better to look at the solution.
+
+This is my timing which I follow, but don’t stick to this if the timing doesn’t suits you. In fact, I would encourage you to create your own timing.
+
+Websites
+→ Hackerank (for beginners)
+→ Leetcode
+→ Geeks For Geeks
+→ InterviewBit
+→ Hackerearth
+

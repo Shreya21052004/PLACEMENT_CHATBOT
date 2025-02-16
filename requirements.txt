@@ -1,8 +1,14 @@
 streamlit
+nest_asyncio
+python-dotenv
 qdrant-client
 llama-index
+llama-index-vector-stores-qdrant
 llama-index-embeddings-fastembed
 llama-index-llms-groq
-pandas
-numpy
-requests
+llama-index-core
+fastembed
+groq
+pickle-mixin
+pathlib
+
